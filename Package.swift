@@ -7,7 +7,7 @@ let package = Package(name: "RAReorderableLayout",
                       products: [.library(name: "RAReorderableLayout",
                                           targets: ["RAReorderableLayout"])],
                       targets: [.target(name: "RAReorderableLayout",
-                                        path: "RAReorderableLayout/RAReorderableLayout",
+                                        path: "RAReorderableLayout",
                                         sources: [
                                           "RAReorderableLayout.h",
                                           "RAReorderableLayout.swift"
